@@ -1,7 +1,3 @@
 We are working on a dark sci-fi short story. The story premise and character description will be made easily available on a different app, Z Rooms, which has various ambient audio options available and already has text-to-speech funcitonality as well as an optional story mode and optional poetry mode. We would also add each chapter and corresponding poem from this project to that app, as optional content for the text-to-speech. 
 
 We want to write an interesting story about some type of space vampire virus which infects a crew in deep space, awakened from a hybernative deep sleep state. The Z Rooms app would play a random chapter per session by default, but users would also be able to change it so they are serialized, but that is for a later time. For now we need to make this great story.
-
-As we write the story, keep in mind that we would like to organize to chunks of 2-5 minutes worth of material spoken by a text-to-speech voice, to make it more easily digestible in the Z Rooms app. 
-
-Please separate these sections of text groupings inside --------------------------- text lines. 

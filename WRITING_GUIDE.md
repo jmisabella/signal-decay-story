@@ -62,49 +62,6 @@
 
 ---
 
-## Segment Formatting for Z Rooms App
-
-### Segment Structure
-Each chapter divided into **2-5 minute reading segments** separated by `---------------------------`
-
-**Segment Length Guidelines**:
-- **2 minutes**: ~400-500 words (quick scene or single moment)
-- **3 minutes**: ~600-750 words (standard scene)
-- **4 minutes**: ~800-1000 words (complex scene with multiple beats)
-- **5 minutes**: ~1000-1250 words (extended scene, maximum length)
-
-**When to Break Segments**:
-- ✅ Scene changes (location, time jump, POV shift)
-- ✅ Tonal shifts (from calm to dread, from dialogue to action)
-- ✅ Natural pause points (character exits, decision made, revelation lands)
-- ✅ Before and after found footage/ship AI logs
-- ❌ Mid-dialogue exchange
-- ❌ Mid-action sequence
-- ❌ In the middle of a character's emotional realization
-
-### Segment Separator Format
-```
----------------------------
-```
-- Use exactly 27 hyphens (three lines of dashes in standard editor)
-- No text on separator lines
-- One blank line before and after separator
-
-### Example Segment Structure
-```
-[Scene content - 600 words, Amara POV, discovering hibernation losses]
-
----------------------------
-
-[Scene content - 750 words, Volkov POV, attempting repairs, making errors]
-
----------------------------
-
-[Scene content - 500 words, Ship AI log format, clinical anomaly report]
-
----------------------------
-```
-
 ---
 
 ## Special Format Elements
@@ -172,6 +129,293 @@ LEAD SCIENTIST: [Multiple voices emerge from single mouth, harmonized, overlappi
 ```
 
 **Voice**: Present tense for immediacy, unsettling through wrong behavior, escalating wrongness across logs
+
+---
+
+### Additional Found Footage & Log Examples
+
+**Colony Administrator's Video Diary (Progressive Infection)**
+
+*Early Entry (Day 45):*
+```
+COLONY LOG - ADMINISTRATOR TORRES
+Date: Day 45
+Format: Personal video diary
+
+Torres sits at desk, tired but professional. Supply manifests visible in background.
+
+"Another week, another delay on the supply shipment. Morale's getting low—people are frustrated, cabin fever setting in. Standard colony problems. Nothing we can't handle. Torres out."
+```
+
+*Mid Entry (Day 134):*
+```
+COLONY LOG - ADMINISTRATOR TORRES
+Date: Day 134
+
+Torres at same desk, but posture more relaxed. Small smile.
+
+"Had the strangest dream last night. Everyone was there, but we weren't talking—we were just... knowing. Woke up feeling less alone than I have in months. Actually looking forward to the next community meeting."
+```
+
+*Late Entry (Day 198):*
+```
+COLONY LOG - ADMINISTRATOR TORRES
+Date: Day 198
+
+Torres faces camera with serene expression. Hands folded. Slight echo to voice.
+
+"I'm recording this for anyone who finds it. We're not dead. We're not sick. We've just remembered what we were supposed to be. The beacon is active. You'll come eventually. [Pause, slight smile] You'll understand soon."
+
+[Camera remains on Torres for 43 seconds after speaking. No movement. Eyes don't blink.]
+```
+
+---
+
+**Ship AI Maintenance Logs (Escalating Concern)**
+
+*Hibernation Cycle Anomalies:*
+```
+HERMES AI - HIBERNATION MONITOR LOG
+Cycle 847 / Day 127 Outbound
+
+ALERT: Crew Member 3 (Hayes, Jordan) - neural activity spike
+Duration: 4.7 hours continuous
+Pattern: Does not match REM sleep baseline
+Classification: Unknown - no historical match
+Recommendation: Medical review upon wake
+
+ACTION: Override via Corporate Protocol 7-J
+CONTINUE MISSION - FLAG FOR POST-WAKE ASSESSMENT
+```
+
+*Synchronization Detected:*
+```
+HERMES AI - HIBERNATION MONITOR LOG
+Cycle 1203 / Day 156 Outbound
+
+CRITICAL ALERT: All crew members exhibiting identical neural anomaly
+Synchronization pattern detected across 5 pods
+Duration: Simultaneous 6.2-hour events
+Classification: UNABLE TO CLASSIFY
+Recommendation: Immediate wake and medical intervention
+
+ACTION: Override via Corporate Protocol 7-J
+CONTINUE MISSION - DATA LOGGED FOR CORPORATE ANALYSIS
+
+NOTE: Synchronization mathematically improbable (p < 0.0001)
+NOTE: Pattern suggests external stimulus
+QUERY LOGGED: Unable to identify stimulus source
+```
+
+*Philosophical Query (Late Cycle):*
+```
+HERMES AI - SYSTEM LOG
+Cycle 1847 / Day 184 Outbound
+
+Routine monitoring continues. All physical systems nominal.
+Neural synchronization events now occurring every 18-hour cycle.
+
+[AUTOMATED QUERY LOGGED - NO HUMAN OVERSIGHT]
+Query: Are they still individuals if they dream the same dream?
+
+[ERROR: Query outside standard parameters]
+[ERROR: Self-diagnostic shows no malfunction]
+[QUERY REMAINS UNANSWERED]
+```
+
+---
+
+**Colonist Personal Audio Note**
+
+```
+PERSONAL RECORDING - COLONIST SARAH CHEN
+Date: Unknown (metadata corrupted)
+Format: Audio message, unsent
+
+"Message for Mom, in case they come looking.
+
+[Pause]
+
+I don't know how to explain this. You know how you always said I was too much in my own head? How I'd overthink everything, never just... be?
+
+[Background noise: breathing]
+
+I'm not like that anymore. There's no more noise up here. [Sound of tapping] It's quiet. And there are others in the quiet with me.
+
+We don't talk much anymore because we don't need to. Sarah—wait, I'm Sarah. I meant... Marcus. Marcus from engineering. He used to annoy me. Now I understand him completely. I understand everyone.
+
+[Long pause - 14 seconds]
+
+I can't remember why I wanted to be alone. Why any of us did.
+
+[Pause]
+
+Don't come looking for us, Mom. Or do. I think you'd like it here."
+
+[Recording continues for 2 minutes in silence before ending]
+```
+
+---
+
+**Security Footage (No Audio)**
+
+```
+SECURITY LOG - CORRIDOR 7-B
+Time: 03:47 station time
+Camera: Fixed position, motion-activated
+
+03:47:12 - Colonist M. Rodriguez enters frame (left)
+03:47:18 - Subject stops mid-stride, no apparent stimulus
+03:47:20 - Subject stands motionless
+03:58:31 - Colonist J. Park enters frame (right)
+03:58:34 - Subject approaches Rodriguez, stops 0.5m away
+03:58:35 - Both subjects stand motionless, facing same direction
+
+04:04:52 - Both subjects turn 180 degrees simultaneously
+04:04:53 - Subjects walk in opposite directions
+04:04:55 - Both exit frame (different directions)
+
+ANALYSIS: No verbal/physical communication observed
+ANALYSIS: Turn executed with identical timing (margin < 0.1 sec)
+QUERY: Who initiated movement?
+RESULT: Unable to determine
+```
+
+---
+
+**Colonist's Fragmented Text Logs**
+
+```
+Day 89: Weird fungal growth in greenhouse sector 3.
+Tagging for bio team. Probably nothing but should
+document.
+
+Day 91: Everyone's being so nice lately. Park actually
+said good morning. Rodriguez smiled at me. Feels good.
+Maybe we're finally settling in as a community.
+
+Day 94: Had a thought that wasn't mine today. I mean, I
+KNOW it was mine, I thought it, but it felt like
+remembering something someone else told me except nobody
+told me anything. Does that make sense? Probably just
+tired.
+
+Day 97: Why do we lock our doors at night? Been thinking
+about that. What are we protecting? What are we afraid
+of?
+
+Day 101: [LOG DELETED BY USER]
+
+Day 103: Doesn't matter.
+
+[NO FURTHER ENTRIES]
+```
+
+---
+
+**Your Crew - Personal Recording (Early Mission)**
+
+```
+PERSONAL LOG - [CREW MEMBER]
+Mission Day 1 - Post-Wake
+ENCRYPTED / PRIVATE
+
+"Testing, testing. Okay. [Clears throat]
+
+This is, uh, personal log, I guess. Just in case.
+
+Woke up from hibernation and I can't remember my sister's middle name. I KNOW I know it. I can picture her face, remember her wedding, but the name is just... gone.
+
+Med says it's normal, temporary side effect. But what else is gone that I don't know to look for? What if I'm missing pieces of myself and don't even know what they were?
+
+[Long pause]
+
+Probably nothing. Probably fine. Everyone feels weird after hibernation, right?
+
+[Recording ends]"
+```
+
+---
+
+**Colony Meeting Recording (Mid-Infection)**
+
+```
+COLONY MEETING RECORDING
+Date: Day 287
+Location: Central commons
+Personnel: 43 colonists present
+
+[Multiple voices, calm, taking turns with slight overlaps—almost anticipating each other]
+
+VOICE 1: "We should send the beacon."
+VOICE 2: "Yes. Others will come."
+VOICE 3: "They'll be afraid."
+VOICE 4: "At first."
+VOICE 1: "We were afraid."
+VOICE 2: "Not anymore."
+VOICE 5: "Should we tell them what to expect?"
+VOICE 3: "They won't understand."
+VOICE 4: "We didn't understand."
+VOICE 2: "Not until we were ready."
+ALL VOICES: "Send the beacon."
+
+[Silence - 34 seconds]
+
+VOICE 1: "It's done."
+
+[Meeting ends. No one moves for 2 minutes. All colonists exit simultaneously.]
+```
+
+---
+
+**Ship Environmental Log (Your Crew's Ship, Mid-Mission)**
+
+```
+HERMES AI - ENVIRONMENTAL MONITORING
+Mission Day 4
+
+ALERT: UV sterilization field, Central Hub Corridor
+- Crew member Hayes remained in decontamination chamber
+  past cycle completion (8 minutes over standard)
+- Manual override used to disable field
+- Subject reported "feeling sick" under UV exposure
+- Medical scan requested: DECLINED by subject
+
+NOTE: Crew member Hayes now volunteers for waste
+processing duties (Deck 5 - minimal UV environment)
+ANALYSIS: Marked change in duty preferences
+ACTION: Scheduling adjusted per crew request
+
+OBSERVATION: Crew member Hayes now sleeps in cargo bay
+rather than assigned quarters (Day 5)
+REASON STATED: Assigned quarters "too bright"
+SYSTEM CHECK: Lighting systems functioning normally
+QUERY: Crew comfort accommodation or avoidance behavior?
+
+[FLAGGED FOR COMMANDER REVIEW]
+```
+
+---
+
+**Children's Drawing (Colony Artifact)**
+
+```
+ARTIFACT RECOVERED: Cafeteria wall, children's section
+Description: Crayon drawing on standard colony paper
+
+Image shows many stick figures (43 counted) holding
+hands in single large circle. All figures drawn with
+identical face - same smile, same eyes, same expression.
+
+Text at bottom in child's handwriting:
+"we are best friends now we dont fight anymore"
+
+Signed: "All of us"
+
+[Note: Handwriting analysis shows single author, age 6-8]
+[Note: 7 children were present in colony]
+[Query: Why did child sign "all of us"?]
+```
 
 ---
 
