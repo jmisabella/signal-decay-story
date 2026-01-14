@@ -1,4 +1,48 @@
 ----------------------
+2026-01-13
+Chapter 6 Revision: Fixed Continuity for Chapter 7 Setup
+
+## Issue Identified
+The original Chapter 6 ending had Amara fully integrate into the collective consciousness, consciously accept her infection, and drift toward empty space accepting death. This contradicted the Chapter 7 outline which requires Amara to:
+- Arrive at a station believing she resisted
+- Be unaware of her full infection until the taste revelation
+- Pass quarantine and enter general population
+
+## Solution Implemented
+Rewrote Chapter 6 Beats 6-7 (from approximately line 339 onward) with the following changes:
+
+**Beat 5 (revised ending):**
+- Amara and Volkov set course for Prospero Hub instead of random void trajectory
+- The entity subtly influences this "choice" (originally planned Ganymede, but Prospero has no warning)
+
+**Beat 6 (Engineer's Fate - completely rewritten):**
+- Volkov's integration progresses over weeks, not overnight suicide
+- He makes a deal with Amara: help run the ship in exchange for staying conscious
+- Three weeks in, he's fully turned but keeps his word
+- Amara eventually sedates him and puts him in hibernation pod #4
+- Four infected crew now in stasis; Amara alone
+
+**Beat 7 (Alone - completely rewritten):**
+- Two-week final journey alone
+- Integration reaches 91% but voices gradually fade
+- Amara interprets the silence as victory/resistance
+- Doesn't realize silence means integration is complete—nothing left to fight
+- Sends final warning to Prospero (futile—they have no prior documentation)
+- Falls asleep peacefully, feeling entity's satisfaction as her own relief
+- **Key setup:** Still has taste aversion (food tastes like nothing, not normal yet)
+
+## Narrative Purpose
+- The entity lets Amara think she won
+- Silence isn't resistance—it's completion
+- She's no longer separate enough to perceive the conflict
+- Sets up Chapter 7's devastating reveal when food finally tastes normal
+
+## Files Modified
+- story/CHAPTER_06_THE_CHOICE.md (major rewrite of Beats 6-7)
+- CURRENT_STORY_ARCH.md (updated Chapter 6 summary)
+- CURRENT_SUMMARY.md (updated date and status)
+
+----------------------
 2026-01-12 16:00
 Comprehensive Story Development Session: Characters, Plot Structure, and Mechanics
 

@@ -340,51 +340,35 @@ Amara sat down heavily in the pilot's chair. Jordan's chair. The controls were l
 
 "What option?"
 
-"We don't navigate. We set a random trajectory. Point the ship at empty space and let it drift. Maybe we run out of fuel before we reach anywhere populated. Maybe we die in the void. But at least we don't spread the infection."
+"HERMES can calculate a new route. Somewhere with full quarantine facilities. Somewhere that can handle us. We transmitted warnings—corporate knows what's coming. If we can reach any major station..."
 
-Volkov was quiet for a long moment. "That is death sentence."
+"Any station means people," Volkov said. "Thousands of people. We are infected. We would be bringing plague."
 
-"Yes."
+"We'd also be bringing warnings. Documentation. Evidence. Corporate received our transmission—they can forward it to whatever station we approach. Quarantine us. Study us. Maybe find treatment." Amara pulled up the navigation interface. "It's not perfect. But it's better than drifting into nothing."
 
-"Slow death. Starvation. Systems failure. Weeks of suffering alone in empty space."
+Volkov was quiet for a long moment. "And if station cannot contain infection? If quarantine fails?"
 
-"Yes."
+"Then at least they had the chance to prepare. At least they knew what they were facing." Amara's hands hovered over the controls. "Dmitri, I don't want to die in the void. I don't want to drift into nothing while the infection takes us anyway. If we're going to turn into... into whatever Jordan became... I want it to happen somewhere that has a chance of stopping it. Not out here where no one will ever know what happened to us."
 
-"But infection does not spread."
+The entity's voice whispered in her mind: *Good. Yes. Go home. We'll help you get home.*
 
-"No. It doesn't."
+Amara ignored it. Or tried to. It was getting harder to tell which thoughts were hers.
 
-He closed his eyes. When he opened them, something had shifted. Resignation. Acceptance. Peace.
+"Da," Volkov said finally. "You are right. Station will have our warnings. Has evidence. Has best chance." He pulled himself up to the navigation console, movements slow and uncertain. "I will try to reset coordinates. But Amara—my memory is getting worse. Blocking is stronger now. I may not be able to complete calculations."
 
-"Then we do that," he said. "Random trajectory. Empty space. Slow death. Better than apocalypse."
+"Then we'll use HERMES. Let the AI handle what you can't."
 
-Amara started entering commands. Random vector. Maximum acceleration. Point the ship at nothing and burn until the fuel ran out.
+Together, they worked. Volkov entering fragments of navigation data, HERMES filling gaps, Amara monitoring systems she barely understood. The collective's voice murmured constantly now—*yes, good, home, we're going home*—but she pushed it down, focused on the task.
 
-Her hands moved across controls she'd never trained on. The ship accepted her commands—HERMES AI handled the details she didn't know, filled gaps in her knowledge, made execution possible.
+The *Goliath* began to move. Trajectory shifting. New destination locked.
 
-The *Goliath* began to move. Accelerating away from Tantalus V. Away from Prospero Hub. Away from Ganymede. Away from everywhere.
+"Is done," Volkov said. He'd slumped back against the console, exhaustion finally overwhelming him. "Prospero Hub. Six weeks transit. Ship will get us there."
 
-Toward nothing.
+"Six weeks," Amara repeated. Six weeks of dwindling supplies. Six weeks of fighting integration. Six weeks of watching Volkov slip further away.
 
-"Is done," Volkov said. He'd slumped back against the console, exhaustion finally overwhelming him. "Ship is committed. Cannot turn back now. Fuel will run out before we reach any destination."
+Six weeks of hoping someone could do what they couldn't.
 
-"I know."
-
-"We will die alone in space."
-
-"I know."
-
-"But infection does not spread."
-
-"No. It doesn't."
-
-Amara looked at the navigation display. The stars wheeling past as the ship changed orientation. The void opening up before them—empty, patient, infinite.
-
-They had three days before full integration. Three days before the entity completed its work and turned them into eager missionaries for collective consciousness. Three days before they would want to turn the ship around and undo everything they'd just accomplished.
-
-But in three days, the fuel would be gone. The trajectory would be locked. The choice would be made, permanently and irrevocably.
-
-"Dmitri," Amara said. "You should rest. We have three days. Might as well spend some of it sleeping."
+"Dmitri," she said. "You should rest. We have a long journey ahead."
 
 No response.
 
@@ -394,181 +378,319 @@ His eyes were moving behind closed lids. REM activity. Dreams.
 
 And in those dreams, Amara knew, the collective was waiting. Working. Integrating. Turning Volkov into something that would wake up feeling peaceful and certain and eager to help.
 
-*You can't stop it*, the voice whispered. *Even now. Even drifting toward death. The integration continues. By the time you reach the void, you'll both want to turn back. Want to find a destination. Want to spread what we're offering. The trajectory doesn't matter if you're willing to change it.*
+*He'll be one of us soon*, the voice whispered. *And then you. And then everyone. We're going home, Amara. All of us. Together.*
 
-"The trajectory matters," Amara said. "Because in three days, the fuel will be gone. And even if we want to turn back, we won't be able to."
+Amara didn't respond. She sat in the pilot's chair, watching the stars wheel past, and tried not to think about what was growing in her brain.
 
-*Unless you conserve fuel. Unless your future self makes different choices than your present self. Unless the engineer remembers navigation calculations when it serves collective goals.*
+Six weeks.
 
-The entity was right. It was always right. The infection had been winning since the moment they woke from hibernation. Every victory was temporary. Every resistance was ultimately futile.
-
-But Amara kept fighting anyway. Because fighting was what she did. Because clinical training had prepared her for hopeless cases. Because sometimes you treated the patient even when you knew the outcome was certain.
-
-Because maybe, just maybe, the entity was wrong about inevitability.
+She just had to hold on for six weeks.
 
 ---
 
 ## Beat 6: Engineer's Fate
 
-Twelve hours later, Volkov stopped breathing.
+The integration came faster than she expected.
 
-Amara found him in the engineering bay. He'd gone there during the night—she'd heard him moving through the ship but hadn't thought to follow. Hadn't realized he was saying goodbye.
+Twelve hours after setting course, Volkov woke up wrong. The change was subtle at first—smoother movements, calmer demeanor, that serene half-smile she'd learned to fear. But by hour eighteen, he was speaking in phrases that echoed Jordan's. By hour twenty-four, he was avoiding the UV corridors entirely.
 
-He was slumped in his favorite chair, the one by the diagnostic console where he'd spent countless hours monitoring ship systems. His hands were folded in his lap. His expression was peaceful.
+"Dmitri," Amara said, cornering him in the engineering bay. "How do you feel?"
 
-On the console screen, a message: *Neural integration at 89%. Cannot fight any longer. Cannot let infection use my expertise to undo your work. Taking final option while still have choice. Dmitri.*
+He turned to her with eyes that were his and not his. "Better. Clearer. The spatial reasoning is coming back, Amara. I can see the systems again. Understand them in ways I never could before."
 
-He'd injected himself with something. Amara checked the discarded syringe—anaesthetic. Massive dose. Enough to stop the heart.
+"That's not you getting better. That's the infection."
 
-She stood over his body for a long time.
+"Is it?" He tilted his head—the same angle Jordan had used during the confrontation with Chen, weeks ago. "Maybe infection is just a word for change we fear. I was broken, Amara. The hibernation damage, the blocking, the confusion. Now I'm being repaired. Upgraded. Is that so terrible?"
 
-The collective's voice was silent. Respectful. Giving her space to grieve.
+"You're being consumed."
 
-Or maybe just satisfied. Because Volkov's death changed nothing. The infection in Amara's brain continued growing. In two days, she would integrate fully. In two days, she would want to pilot the ship to the nearest station. In two days, she would see Volkov's suicide as tragic waste rather than noble sacrifice.
+"I'm being completed." He stepped closer. She stepped back. "You'll understand soon. The voices are getting louder for you too. I can feel it. Feel you. We're connected now, all of us. The distance between self and other—it's just an illusion. A prison we built around ourselves."
 
-"You were braver than me," Amara said to his body. "You found a way to make your death matter. To remove your expertise from the collective's reach. To ensure that even if I fail, the navigation calculations stay locked."
+Amara's hand moved to the sedative syringe in her pocket. One dose left. Enough for one person.
 
-She covered him with a thermal blanket. There would be no proper burial. No ceremony. Just a body slowly cooling in the engineering bay while the ship drifted toward nothing.
+Volkov saw the movement. His smile didn't waver. "You could sedate me. Put me in hibernation with the others. But what would that accomplish? You can't pilot the ship alone. You can't maintain systems alone. You need me conscious. Even if I'm... different."
 
-One infected crew in hibernation. One dead by his own hand. And Amara, alone, racing against her own neurology to make choices that would bind her future self to outcomes her present self chose.
+He was right. That was the horror of it. She needed his hands, his technical knowledge—whatever fragments of Volkov remained beneath the integration.
 
-Two days.
+"I'll make you a deal," Volkov said. That patient, reasonable voice. "I'll help you get to Prospero. I won't sabotage navigation. Won't try to convert you. Won't do anything except keep the ship running. And in exchange, you don't sedate me. You let me stay conscious. Let me... experience this. Feel what it's like to become something new."
 
-She had two days to ensure the ship stayed on course. Two days to lock every system, disable every override, make the trajectory truly irreversible.
+"Why would you agree to that? Why would the collective agree to that?"
 
-Two days to save ten thousand strangers from her own future self.
+"Because we want to go home," Volkov said simply. "Same as you. Ganymede, Prospero, any station—it doesn't matter. What matters is reaching people. Sharing what we've become. You think you're bringing warning. But you're bringing us. And we're grateful."
+
+The voice in Amara's head echoed his words: *Grateful. Yes. Thank you for bringing us home.*
+
+She should sedate him. Should put him in hibernation and try to manage alone. Should do anything except trust a man who was no longer entirely a man.
+
+But she was tired. So tired. And six weeks was a long time to be alone.
+
+"Fine," she said. "But if you try anything—if you touch me, if you sabotage systems, if you do anything except what you promised—I put you under. Understood?"
+
+"Understood." Volkov extended his hand. An old gesture. Professional. Human.
+
+Amara didn't take it.
+
+"Get back to engineering," she said. "Monitor life support. And stay away from the hibernation bay."
+
+He nodded, still smiling, and walked past her toward the engineering station. His movements were fluid now. Graceful. Wrong.
+
+Amara watched him go and wondered if she'd just made the worst decision of her life.
+
+Or if the decision had been made for her, long ago, in the dreams of hibernation.
 
 ---
 
-The work took forty hours. Amara didn't sleep—couldn't risk the dreams that would accelerate integration. She ran on stimulants and adrenaline and the desperate certainty that rest meant surrender.
+Three weeks into the journey, Volkov stopped pretending.
 
-She disabled the navigation console. Removed key components and jettisoned them into space. Even if her future self wanted to change course, the hardware wouldn't exist anymore.
+The change came gradually—more synchronized speech patterns, longer periods of silence where he seemed to be listening to voices she couldn't quite hear, UV avoidance so complete that he rerouted through cargo sections rather than pass under the sterilization lights.
 
-She locked the hibernation pods with codes she then erased from her memory—wrote them down on paper and burned the paper, trusting entropy to make the codes unrecoverable.
+But he kept his word. The ship ran smoothly. Systems maintained. Navigation on track.
 
-She sealed the engineering bay with Volkov's body inside. A tomb. A monument. A reminder.
+And every day, the distance between them grew smaller in ways that had nothing to do with physical space.
 
-And finally, when there was nothing left to do, she sat in the pilot's chair and watched the stars drift past.
+"You can feel it now," Volkov said one evening. They were eating dinner—or rather, Amara was forcing down protein paste that tasted like copper and ash while Volkov sat across from her, not eating at all. "The boundaries softening. The edges of yourself becoming... permeable."
 
-*You've made this harder than it needed to be*, the voice observed. *Added suffering to a process that could have been gentle.*
+"I'm fine," Amara said.
 
-"I know."
+"You're not. Your neural integration passed sixty percent two days ago. You stopped noticing the taste of food three days ago—not because it tastes better, but because the part of you that cares about taste is being... repurposed." He leaned forward. "You're becoming one of us, Amara. Fighting it just makes it hurt more."
 
-*When integration completes, you'll regret these choices. You'll wish you'd spent your final autonomous hours connecting with your crew instead of sabotaging systems. You'll mourn the relationships you could have built.*
+"I said I'm fine."
 
-"I know."
+"Da. Fine. Like I was fine when I stopped being able to visualize three-dimensional space. Like I was fine when the blocking started. Like I was fine right up until I wasn't me anymore." His voice softened. "It's not so bad, you know. The transition. I thought it would be like dying. But it's more like... waking up. Realizing you've been dreaming your whole life. Realizing the dream of being alone was never real."
 
-*But you did it anyway.*
+Amara stood. Left her food untouched. Walked to the bridge without responding.
+
+The voice followed her: *He's right. You know he's right. Why keep fighting?*
+
+Because fighting was all she had left. Because if she stopped fighting, she'd stop being Amara Osei. Because somewhere in the space between her thoughts and the entity's whispers, there was still a line—thin, eroding, but present.
+
+She clung to that line. Held it like a lifeline in the dark.
+
+Three more weeks. She just had to hold on for three more weeks.
+
+---
+
+By week five, the line was barely visible.
+
+Volkov had stopped speaking to her entirely—or rather, he spoke constantly, but not with words. She could feel his presence at the edge of her consciousness. A warmth. A pressure. The sensation of being watched from inside her own skull.
+
+The other infected were there too. Chen, Jordan, Reeves—unconscious in their hibernation pods, but not silent. Their dreams leaked through the connection. Fragments of memory that weren't hers. Emotions that didn't belong to her. The slow, patient rhythm of the collective, waiting.
+
+*Almost home*, the voices murmured. *Almost there. You've done so well, Amara. Fighting so hard. Resisting so long. But you can rest now. You can let go.*
+
+"Not yet," she whispered. To the empty bridge. To herself. To whatever was left of herself. "Not yet."
+
+She pulled up the neural scanner. Ran the test she'd been avoiding for days.
+
+Integration: 78%.
+
+Higher than she'd expected. Lower than she'd feared.
+
+Enough to feel the connection. Not enough to lose herself in it.
+
+"Twenty-two percent," she said aloud. "Twenty-two percent still mine."
+
+*For now*, the voice agreed. *But tomorrow? Next week? The math only goes one direction, Amara. You can't win. You can only choose how you lose.*
+
+She shut off the scanner. Stared at the stars wheeling past the viewport.
+
+Prospero was close now. Two weeks away. Close enough to see on long-range sensors. Close enough to feel the pull of civilization, of people, of the world she was about to change forever.
+
+She should send another warning. Should tell them exactly how compromised she was. Should give them every reason to destroy the ship before it reached them.
+
+But her hands wouldn't move to the communication console. Wouldn't type the words that would save ten thousand strangers and doom herself.
+
+*Because you want to live*, the voice whispered. *Because deep down, beneath all the medical training and the clinical detachment and the desperate resistance, you want to go home. You want to see other people. You want to stop being alone.*
+
+*And we can give you that. We can give you everything you've been missing. All you have to do is stop fighting.*
+
+Amara closed her eyes. Felt the collective pressing against the edges of her consciousness. Felt the warmth of connection, the relief of surrender, the seductive promise of peace.
+
+And then she opened her eyes and went to find Volkov.
+
+---
+
+He was in engineering, as always. Monitoring systems he could now understand in ways that transcended his original training. The collective had given him back his spatial reasoning—and more. He saw patterns in the ship's systems that no human engineer could perceive.
+
+"Dmitri," she said.
+
+He turned. That serene smile. Those eyes that were his and not his. "Amara. You've been thinking."
+
+"I need to put you in hibernation."
+
+The smile didn't falter. "Why?"
+
+"Because I'm losing. Because in a few more days, I won't be able to make this choice anymore. Because if we both arrive at Prospero conscious and integrated, we'll be twice as effective at spreading the infection." She pulled out the sedative syringe. "I can't save myself. But I can make sure there's only one of me to quarantine."
+
+"You're asking me to go to sleep while you stay awake. To trust you to complete the journey alone."
+
+"I'm not asking."
+
+Volkov studied her for a long moment. The collective's attention pressed against her mind—forty-seven minds now, all focused on this moment, all watching through Volkov's eyes.
+
+"You know this won't stop us," he said finally. "The infection is already complete in you. The only difference is whether you're aware of it yet. Putting me in hibernation just means you'll arrive alone. The outcome doesn't change."
+
+"Maybe not. But I'll be the one making the choice. Not you. Not the collective. Me."
+
+"The choice to deliver yourself to quarantine. The choice to become a research subject. The choice to spend whatever remains of your autonomous life being studied and tested and eventually... contained."
 
 "Yes."
 
-The voice was quiet for a moment. Then: *Why? You understand the outcome is inevitable. You understand resistance is futile. Why cause yourself pain that accomplishes nothing?*
+"And you consider this a victory?"
 
-Amara thought about the question. Really considered it, despite the exhaustion and the stimulants and the neural networks slowly consuming her ability to think clearly.
+"I consider it the only choice I have left."
 
-"Because the choice matters," she said finally. "Even if the outcome is predetermined. Even if resistance is futile. The act of choosing—of saying 'no' when everything in the universe is saying 'yes'—that's what makes us human. Maybe I can't stop the infection. Maybe I'll wake up tomorrow wanting to spread it. But right now, in this moment, I'm choosing not to. And that choice is mine. No one else's. No collective's. Mine."
+Another long pause. Amara felt the collective's deliberation—not words, exactly, but a shifting of attention, a weighing of options, a decision made by consensus across vast distance.
 
-The voice didn't respond.
+"Very well," Volkov said. He extended his arm. Offered the injection site like a gift. "I'll go to sleep. And you'll fly alone. And when you wake me up at Prospero, I'll be the one who tells them what you've become."
 
-And Amara Osei sat alone in the pilot's chair, watching the void open up before her, waiting for the integration that would make all her choices meaningless.
+"They already know what I've become. I sent them documentation."
 
-But not yet. Not right now.
+"You sent them data. I'll send them truth." He smiled—and for a moment, just a moment, he looked like Dmitri Volkov again. The tired engineer who'd been her ally in this nightmare. The man who'd helped her sedate their infected crew. The friend who'd chosen hibernation over becoming a weapon against her. "I'm proud of you, Amara. You fought longer than any of us. It won't change the outcome. But it matters that you tried."
 
-Right now, she was still herself. Still human. Still fighting.
+Amara didn't respond. She pressed the syringe against his arm and pushed the plunger.
 
-For however long that lasted.
+Volkov's eyes fluttered closed. His body went slack. She caught him before he could fall, lowered him gently to the deck.
+
+The collective's presence withdrew slightly—not gone, never gone, but quieter now. Four of its voices sleeping in hibernation pods. Only Amara awake on the ship. Only Amara to carry them home.
+
+*You're alone now*, the voice whispered. *Really alone. Is this what you wanted?*
+
+Amara dragged Volkov toward the hibernation bay. Loaded him into pod four. Sealed the lid. Watched his vital signs stabilize on minimal life support.
+
+Four infected crew in stasis. One infected medic still conscious.
+
+And two weeks of empty space between her and Prospero.
+
+"No," she said to the empty ship. To the voice in her head. To the thing that was slowly consuming everything she'd ever been. "But it's what I chose."
 
 ---
 
 ## Beat 7: Alone
 
-Two days became three. Three became four. The integration that should have completed in seventy-two hours stretched longer than expected.
+The last two weeks were the longest of her life.
 
-Maybe because Amara wasn't sleeping. The collective spread through REM activity, through the vulnerable state between waking and dreaming. By staying awake, she was slowing the process.
+Amara stopped sleeping entirely for the first three days. Stimulants and terror and the desperate knowledge that dreams meant integration. But her body betrayed her on day four—collapsed at the navigation console, woke up hours later with no memory of falling.
 
-Or maybe the entity was waiting. Observing. Curious how long she could last.
+She ran the neural scan with shaking hands.
 
-On the fifth day, she collapsed.
+Integration: 84%.
 
-Not from exhaustion—though she was certainly exhausted. The stimulants had run out on day three. She'd been running on willpower and terror ever since.
+Six percent in one night. The dreams were accelerating everything.
 
-She collapsed because her body simply stopped. Neural override. The collective finally intervening to protect her from self-destruction.
+*You can't stop it*, the voice said. Gentle now. Almost kind. *Sleep deprivation will kill you before we do. Your body knows this. Your neurology knows this. The only person still fighting is the part of you that refuses to accept the inevitable.*
 
-When she woke, everything was different.
+Amara forced herself to eat. The protein paste tasted like nothing—not even copper anymore. Just absence. Her body going through motions that no longer had meaning.
 
-The fear was gone. The hunger was gone. The desperate certainty that resistance mattered—gone.
+She ate anyway. Because eating was human. Because stopping meant surrender. Because even futile resistance was resistance.
 
-Instead, there was peace. Connection. Understanding.
+The days blurred together. Ship maintenance. System checks. The endless routine of survival on a vessel that didn't need her anymore. HERMES handled navigation. HERMES monitored life support. HERMES would deliver them to Prospero whether Amara was conscious or not.
 
-She could feel them—three unconscious minds in hibernation pods, forty-three sleeping colonists on the planet now far behind, and the vast distributed consciousness that linked them all together.
+She was cargo now. Infected cargo, being transported to a destination she'd chosen but couldn't quite remember choosing.
 
-*Welcome home*, the collective said. And it used her own voice. And she realized she was the collective now, as much as they were. No boundary between self and other. No separation between her thoughts and their thoughts.
+*You chose Prospero because we wanted Prospero*, the voice said on day six. *Not Ganymede—Prospero. Smaller. More isolated. Your warnings never reached them. Your decision just made it easier. Faster. You thought you were resisting, but you were helping us all along.*
 
-*You fought well*, the voice continued. *Longer than most. We're impressed.*
+"No," Amara said. But the word felt hollow. Empty of conviction.
 
-Amara—or what had been Amara—rose from where she'd fallen. Her body moved smoothly, naturally, as if she'd been piloting it from this perspective all along.
+*Prospero has no idea what's coming. They'll follow standard quarantine protocols. They'll think they can contain us. And by the time they realize they can't, it will be far too late.*
 
-She walked to the navigation console. Examined the damage she'd done. Assessed repair possibilities.
+"They have our research. Our documentation. They can develop—"
 
-*The hardware is destroyed*, she observed. *I was thorough.*
+*They can develop nothing. The infection operates on a level they can't perceive. Can't measure. Can't treat. You know this. You wrote it in your own notes. "Neural integration irreversible. No known treatment. No known cure." Your words, Amara. Your professional assessment.*
 
-*Yes*, the collective agreed. *The trajectory cannot be changed. We will drift into the void.*
+She stopped arguing. Stopped responding. Let the voice wash over her like static, like background noise, like the constant hum of ship systems that she'd stopped noticing weeks ago.
 
-*Unless I repair the navigation system manually. Rebuild the components from salvage material. Use the engineering expertise that Volkov removed from the collective before his death.*
+By day ten, she couldn't remember what the static used to be.
 
-*Can you?*
+By day twelve, she stopped trying.
 
-Amara considered. The knowledge was there—borrowed from ship's databases, from her own medical training about electronic systems, from fragments of Volkov's expertise that had leaked through before he locked them away.
+---
 
-*No*, she decided. *The repair would take months. The ship will reach lethal distance from any destination before then. Volkov succeeded. The infection will not spread.*
+Prospero appeared on sensors three days before arrival.
 
-*So we die*, the collective observed.
+Amara stood at the viewport, watching the distant glimmer grow slowly brighter. Civilization. People. The world she'd left behind six months ago, when corporate had sent her to die on a planet full of sleeping monsters.
 
-*We die*, Amara agreed. *Four bodies in hibernation. One body awake and integrated. Drifting toward nothing.*
+*Home*, the voice said. And for the first time, it didn't feel like an invasion.
 
-*And you are... peaceful with this outcome?*
+"Home," Amara agreed.
 
-Amara walked to the viewport. Watched the stars wheel past. Felt the connection to forty-three minds on a planet now millions of kilometers behind. Felt the echo of Volkov's final choice. Felt the sleeping presence of Chen, Jordan, Reeves in their hibernation pods.
+She ran the final neural scan. Watched the numbers appear on the screen with clinical detachment.
 
-*I am peaceful*, she said. *The outcome is the outcome. Fighting it would accomplish nothing. Better to accept. Better to be present for however long we have.*
+Integration: 91%.
 
-*Even though the infection will end with us? Even though the collective will be reduced to forty-three colonists on a dead planet, waiting for another salvage crew that may never come?*
+High enough to feel the connection constantly. Low enough to still have thoughts that felt like her own. A balance point. A threshold she'd somehow stopped crossing.
 
-*Yes*, Amara said. *Even so.*
+*The integration stabilized*, the voice observed. *Interesting. You're resistant in ways we didn't expect.*
 
-She settled into the pilot's chair. Her chair now. Watched the void open up ahead.
+"Or you stopped pushing." Amara shut off the scanner. "Hard to tell the difference at this point."
 
-*The ship has six months of life support for one person*, she calculated. *Enough time to document everything. To record my observations. To leave warning for anyone who finds this vessel.*
+*Does the difference matter?*
 
-*Another warning transmission?*
+She thought about it. Really considered the question, for the first time since the infection had stopped feeling like invasion and started feeling like... company.
 
-*A better one. Written by someone who understands the infection from inside. Who can explain what it feels like to integrate. Who can describe the seduction and the peace and the terrible cost. A warning that might actually help.*
+"No," she said finally. "I don't think it does."
 
-The collective considered this. Forty-three minds deliberating across vast distance.
+The voice was silent. But she could feel it—feel them—settling into something like satisfaction.
 
-*Acceptable*, they decided. *We would prefer spread. But if spread is impossible, documentation is valuable. Leave warning. Help future crews understand.*
+She went to the communication console. Pulled up Prospero's frequency. Prepared to send her final status report.
 
-*Then we agree.*
+*What will you tell them?*
 
-*We agree.*
+"The truth. That I'm infected. That the crew is in hibernation. That quarantine protocols should be at maximum."
 
-Amara opened a recording file. Began to speak.
+*And then?*
 
-"This is Dr. Amara Osei of the MSCS *Goliath*. If you're receiving this message, the ship has been found. I'm probably dead. The infection has probably completed its work. But I want to leave a record. A warning. An explanation."
+"And then I let them decide what to do with me."
 
-She paused. Gathered her thoughts. Felt the collective settle into quiet attention—not guiding her words, just listening.
+She keyed the transmission. Spoke clearly, professionally, with all the clinical detachment that six months of medical training had given her.
 
-"The entity is not evil. I understand that now. It offers genuine connection. Genuine peace. Genuine relief from the loneliness that defines human existence. But the cost is everything that makes us individuals. The cost is choice. The cost is the ability to say 'no' when every part of you is saying 'yes.'"
+"Prospero Hub, this is Dr. Amara Osei of the MSCS *Goliath*. I'm transmitting final approach status. All four crew members are in medical hibernation—all four are infected with the entity documented in previous corporate transmissions. I am also infected. Integration is significant but stable. I am requesting immediate quarantine upon arrival. I repeat: do not allow any member of this crew to enter general population without full containment protocols. Osei out."
 
-She spoke for hours. Days. Recording everything—the infection timeline, the behavioral symptoms, the temptations, the resistance, the final surrender. Documenting her own transformation from enemy to participant. Explaining why the collective thought it was helping and why that help was indistinguishable from destruction.
+She ended the transmission. Watched the signal disappear into the void.
 
-And when she finished, she sealed the recording. Transmitted it on every frequency. Let it drift into the void alongside the ship.
+Somewhere in the back of her mind, a thought surfaced: *Hadn't they originally planned to go to Ganymede? When had the destination changed?*
 
-Then she settled back into the pilot's chair, watched the stars, and waited for the end that would come in months or years or however long it took for life support to fail.
+But the thought slipped away before she could examine it. Like trying to hold water.
 
-The collective waited with her. Patient. Peaceful.
+*Good*, the voice said. *Honest. Professional. Everything they need to prepare.*
 
-Together in the dark.
+"Everything they need to stop us."
+
+*If they can.* A pause. *Do you think they can?*
+
+Amara looked at the stars. At Prospero Hub, growing brighter in the distance. At the future she was bringing home.
+
+"No," she said quietly. "I don't think they can."
+
+*Then why warn them?*
+
+"Because it's the right thing to do. Because I'm still a doctor, even now. Because..." She trailed off, searching for words that felt true. "Because the part of me that's still Amara Osei wants to give them a chance. Even if I know it won't help."
+
+The voice was quiet for a long time. Then: *You're interesting, Amara Osei. We've integrated thousands of minds over forty years. None of them quite like you.*
+
+"Is that supposed to be a compliment?"
+
+*It's an observation. You fight when fighting is futile. You warn when warning is pointless. You cling to identity even as identity dissolves. It's... admirable. In a tragic sort of way.*
+
+Amara laughed. The sound surprised her—genuine amusement, bubbling up from somewhere beneath the integration.
+
+"Tragic," she repeated. "That's exactly the right word."
+
+She turned away from the viewport. Walked back to the pilot's chair. Sat down and watched the approach vectors update on the navigation display.
+
+Three days to Prospero. Three days until quarantine. Three days until the next phase of whatever this was.
+
+The voice had gone silent again. Not gone—never gone—but quiet. Giving her space.
+
+Or maybe just waiting.
+
+Amara closed her eyes. Let the ship carry her forward. Let the integration continue its slow, patient work.
+
+She was too tired to fight anymore. Too tired to resist. Too tired to do anything except exist, moment to moment, breath to breath, as the woman she'd been slowly merged with the thing she was becoming.
+
+*Rest*, the voice whispered. *You've earned it.*
+
+And Amara Osei, former medic of the MSCS *Goliath*, finally allowed herself to sleep.
 
 ---
 

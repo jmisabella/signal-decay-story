@@ -135,10 +135,13 @@ All losses discovered immediately upon waking (Act 1). Later revealed as early i
 - "We're not hungry anymore. We're full. Let us fill you too."
 - Infected reveal plan: Repaired ship, will spread infection to hub station
 - Entity's voice: "You're already us. The outcome is inevitable."
-- Medic fights back, disables infected, puts them in hibernation
-- Sets ship for what they believe is safe destination
-- Engineer's fate ambiguous (infected or sacrificed)
-- Medic ends up alone
+- Medic fights back with engineer's help, sedates infected, puts them in hibernation
+- Sets course for Prospero Hub (entity influences this "choice")
+- Six-week journey: Engineer slowly turns, eventually put in hibernation by medic
+- Medic's integration reaches 91%, but voices gradually fade
+- Interprets silence as victory, doesn't realize she's already complete
+- Sends final warning to Prospero, ends chapter believing she fought well
+- Falls asleep peacefully—the entity's satisfaction feels like her own relief
 
 ### Chapter 7: "Return" (~4-5 min)
 - Time jump: Weeks later, medic alone
